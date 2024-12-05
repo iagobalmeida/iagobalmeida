@@ -1,7 +1,7 @@
 ## Iago Borba de Almeida
 - 👤 Brazilian Computer Engineering Student at FURG
 - 👨‍💻 FullStack Developer
-- 👀 Looking to Vue.js with passion
+- Python to rule them all!
 
 
 ### Stats
