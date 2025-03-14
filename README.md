@@ -2,6 +2,7 @@
 - 👤 Brazilian Computer Engineering Student at FURG
 - 👨‍💻 FullStack Developer
 - Python to rule them all!
+- Pixel artist! [(See my arts)](https://www.pixilart.com/amon-sp?ref=embed)
 
 
 ### Stats
@@ -12,8 +13,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagobalmeida&show_icons=true&include_all_commits=true&count_private=true&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=8b949e&bg_color=0d1117&exclude_repo=nave-agency,nave-agency-old"/>
 </a>
 </div>
-
-<iframe id="pixilart-widget" src="https://www.pixilart.com/embed/2283217?e=1&c_t=4" width="350px" height="509px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
  <!--
 colors:
