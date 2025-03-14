@@ -13,6 +13,8 @@
 </a>
 </div>
 
+<iframe id="pixilart-widget" src="https://www.pixilart.com/embed/2283217?e=1&c_t=4" width="350px" height="509px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
  <!--
 colors:
 GitBackground:  #0d1117
